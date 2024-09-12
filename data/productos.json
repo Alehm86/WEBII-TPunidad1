@@ -1,267 +1,266 @@
 [
-    {
-        "id":"01",
-        "marca": "Asus",
-        "modelo": "X515EA-EJ1342",
-        "espec": "CPU: Intel Ci3 - 8Gb DDR4 - SSD 500Gb",
-        "categoria":{
-            "nombre" : "Notebooks",
-            "id": "note"
-        },
-        "precio": 600000
+  {
+    "id": 1,
+    "marca": "Asus",
+    "modelo": "X515EA-EJ1342",
+    "especificacion": "CPU: Intel Ci3 - 8Gb DDR4 - SSD 500Gb",
+    "categoria": {
+      "nombre": "Notebooks",
+      "id": "note"
     },
-    {
-        "id":"02",
-        "marca": "Dell",
-        "modelo": "Inspiron 3535",
-        "espec": "CPU: Amd Ryzen3 - 8Gb DDR4 - SSD 256Gb",
-        "categoria":{
-            "nombre": "Notebooks",
-            "id": "note"
-        },
-        "precio": 430000
+    "precio": 650000
+  },
+  {
+    "id": 2,
+    "marca": "Dell",
+    "modelo": "Inspiron 3535",
+    "especificacion": "CPU: Amd Ryzen3 - 8Gb DDR4 - SSD 256Gb",
+    "categoria": {
+      "nombre": "Notebooks",
+      "id": "note"
     },
-    {
-        "id":"03",
-        "marca": "Asus",
-        "modelo": "X515MA-BR423W",
-        "espec": "CPU: Intel Cel N4120 - 4Gb DDR4 - SSD 256Gb",
-        "categoria":{
-            "nombre": "Notebooks",
-            "id": "note"
-        },
-        "precio": 290000
+    "precio": 430000
+  },
+  {
+    "id": 3,
+    "marca": "Asus",
+    "modelo": "X515MA-BR423W",
+    "especificacion": "CPU: Intel Cel N4120 - 4Gb DDR4 - SSD 256Gb",
+    "categoria": {
+      "nombre": "Notebooks",
+      "id": "note"
     },
-    {
-        "id":"04",
-        "marca": "Lenovo",
-        "modelo": "V15",
-        "espec": "CPU: Intel Ci7 - 8Gb DDR4 - SSD 256Gb + HDD 1TB",
-        "categoria":{
-            "nombre": "Notebooks",
-            "id": "note"
-        },
-        "precio": 980000
+    "precio": 290000
+  },
+  {
+    "id": 4,
+    "marca": "Lenovo",
+    "modelo": "V15",
+    "especificacion": "CPU: Intel Ci7 - 8Gb DDR4 - SSD 256Gb + HDD 1TB",
+    "categoria": {
+      "nombre": "Notebooks",
+      "id": "note"
     },
-    {
-        "id":"05",
-        "marca": "Asus",
-        "modelo": "X515EA-EJ1629",
-        "espec": "CPU: Intel Ci7 - 8Gb DDR4 - SSD 256Gb",
-        "categoria":{
-            "nombre": "Notebooks",
-            "id": "note"
-        },
-        "precio": 850000
+    "precio": 980000
+  },
+  {
+    "id": 5,
+    "marca": "Asus",
+    "modelo": "X515EA-EJ1629",
+    "especificacion": "CPU: Intel Ci7 - 8Gb DDR4 - SSD 256Gb",
+    "categoria": {
+      "nombre": "Notebooks",
+      "id": "note"
     },
-    {
-        "id":"06",
-        "marca": "Kingston",
-        "modelo": "KC3000",
-        "espec": "Tamaño: 1TB",
-        "categoria":{
-            "nombre": "Componentes",
-            "id": "comp"
-        },
-        "precio": 20000
+    "precio": 850000
+  },
+  {
+    "id": 6,
+    "marca": "Kingston",
+    "modelo": "KC3000",
+    "especificacion": "Tamaño: 1TB",
+    "categoria": {
+      "nombre": "Componentes",
+      "id": "comp"
     },
-    {
-        "id":"07",
-        "marca": "Samsung",
-        "modelo": "980 PRO",
-        "espec": "Tamaño: 1TB M.2 NVME",
-        "categoria":{
-            "nombre": "Componentes",
-            "id": "comp"
-        },
-        "precio": 130000
+    "precio": 90000
+  },
+  {
+    "id": 7,
+    "marca": "Samsung",
+    "modelo": "980 PRO",
+    "especificacion": "Tamaño: 1TB M.2 NVME",
+    "categoria": {
+      "nombre": "Componentes",
+      "id": "comp"
     },
-    {
-        "id":"08",
-        "marca": "Intel",
-        "modelo": "Ci7-12700",
-        "espec": "12 núcleos - 4.9Ghz - S1700",
-        "categoria":{
-            "nombre": "Componentes",
-            "id": "comp"
-        },
-        "precio": 450000
+    "precio": 130000
+  },
+  {
+    "id": 8,
+    "marca": "Intel",
+    "modelo": "Ci7-12700",
+    "especificacion": "12 núcleos - 4.9Ghz - S1700",
+    "categoria": {
+      "nombre": "Componentes",
+      "id": "comp"
     },
-    {
-        "id":"09",
-        "marca": "Intel",
-        "modelo": "Ci5-12400F",
-        "espec": "6 núcleos - 4.4Ghz - S1700",
-        "categoria":{
-            "nombre": "Componentes",
-            "id": "comp"
-        },
-        "precio": 250000
+    "precio": 450000
+  },
+  {
+    "id": 9,
+    "marca": "Intel",
+    "modelo": "Ci5-12400F",
+    "especificacion": "6 núcleos - 4.4Ghz - S1700",
+    "categoria": {
+      "nombre": "Componentes",
+      "id": "comp"
     },
-    {
-        "id":"10",
-        "marca": "Intel",
-        "modelo": "Ci3-12100F",
-        "espec": "4 núcleos - 4.3Ghz - S1700",
-        "categoria":{
-            "nombre": "Componentes",
-            "id": "comp"
-        },
-        "precio": 160000
+    "precio": 250000
+  },
+  {
+    "id": 10,
+    "marca": "Intel",
+    "modelo": "Ci3-12100F",
+    "especificacion": "4 núcleos - 4.3Ghz - S1700",
+    "categoria": {
+      "nombre": "Componentes",
+      "id": "comp"
     },
-    {
-        "id":"11",
-        "marca": "AMD",
-        "modelo": "Ryzen 7-5800X",
-        "espec": "8 núcleos - 4.7Ghz - AM4",
-        "categoria":{
-            "nombre": "Componentes",
-            "id": "comp"
-        },
-        "precio": 385000
+    "precio": 160000
+  },
+  {
+    "id": 11,
+    "marca": "AMD",
+    "modelo": "Ryzen 7-5800X",
+    "especificacion": "8 núcleos - 4.7Ghz - AM4",
+    "categoria": {
+      "nombre": "Componentes",
+      "id": "comp"
     },
-    {
-        "id":"12",
-        "marca": "AMD",
-        "modelo": "Ryzen 5-5600",
-        "espec": "6 núcleos - 4.7Ghz - AM4",
-        "categoria":{
-            "nombre": "Componentes",
-            "id": "comp"
-        },
-        "precio": 290000
+    "precio": 385000
+  },
+  {
+    "id": 12,
+    "marca": "AMD",
+    "modelo": "Ryzen 5-5600",
+    "especificacion": "6 núcleos - 4.7Ghz - AM4",
+    "categoria": {
+      "nombre": "Componentes",
+      "id": "comp"
     },
-    {
-        "id":"13",
-        "marca": "Kingston",
-        "modelo": "HYPERX FURY",
-        "espec": "Tamaño: 8Gb - 3200MHz",
-        "categoria":{
-            "nombre": "Componentes",
-            "id": "comp"
-        },
-        "precio": 24000
+    "precio": 290000
+  },
+  {
+    "id": 13,
+    "marca": "Kingston",
+    "modelo": "HYPERX FURY",
+    "especificacion": "Tamaño: 8Gb - 3200MHz",
+    "categoria": {
+      "nombre": "Componentes",
+      "id": "comp"
     },
-    {
-        "id":"14",
-        "marca": "Adata",
-        "modelo": "XPG SPECTRIX D50 RGB",
-        "espec": "Tamaño: 16Gb - 3600MHz",
-        "categoria":{
-            "nombre": "Componentes",
-            "id": "comp"
-        },
-        "precio": 40000
+    "precio": 24000
+  },
+  {
+    "id": 14,
+    "marca": "Adata",
+    "modelo": "XPG SPECTRIX D50 RGB",
+    "especificacion": "Tamaño: 16Gb - 3600MHz",
+    "categoria": {
+      "nombre": "Componentes",
+      "id": "comp"
     },
-    {
-        "id":"15",
-        "marca": "Dell",
-        "modelo": "P2722H",
-        "espec": "Pantalla de 27 pulgadas FHD IPS",
-        "categoria":{
-            "nombre": "Componentes",
-            "id": "comp"
-        },
-        "precio": 350000
+    "precio": 40000
+  },
+  {
+    "id": 15,
+    "marca": "Dell",
+    "modelo": "P2722H",
+    "especificacion": "Pantalla de 27 pulgadas FHD IPS",
+    "categoria": {
+      "nombre": "Componentes",
+      "id": "comp"
     },
-    {
-        "id":"16",
-        "marca": "Asus",
-        "modelo": "VA27EHEY",
-        "espec": "Pantalla de 27 pulgadas FHD IPS",
-        "categoria":{
-            "nombre": "Componentes",
-            "id": "comp"
-        },
-        "precio": 200000
+    "precio": 350000
+  },
+  {
+    "id": 16,
+    "marca": "Asus",
+    "modelo": "VA27EHEY",
+    "especificacion": "Pantalla de 27 pulgadas FHD IPS",
+    "categoria": {
+      "nombre": "Componentes",
+      "id": "comp"
     },
-    {
-        "id":"17",
-        "marca": "Samsung",
-        "modelo": "S23",
-        "espec": "Almacenamiento: 256Gb - RAM: 8Gb",
-        "categoria":{
-            "nombre": "Celulares",
-            "id": "cel"
-        },
-        "precio": 1250000
+    "precio": 200000
+  },
+  {
+    "id": 17,
+    "marca": "Samsung",
+    "modelo": "S23",
+    "especificacion": "Almacenamiento: 256Gb - RAM: 8Gb",
+    "categoria": {
+      "nombre": "Celulares",
+      "id": "cel"
     },
-    {
-        "id":"18",
-        "marca": "Samsung",
-        "modelo": "A52s",
-        "espec": "Almacenamiento: 128Gb - RAM: 6Gb",
-        "categoria":{
-            "nombre": "Celulares",
-            "id": "cel"
-        },
-        "precio": 420000
+    "precio": 1250000
+  },
+  {
+    "id": 18,
+    "marca": "Samsung",
+    "modelo": "A52s",
+    "especificacion": "Almacenamiento: 128Gb - RAM: 6Gb",
+    "categoria": {
+      "nombre": "Celulares",
+      "id": "cel"
     },
-    {
-        "id":"19",
-        "marca": "Samsung",
-        "modelo": "A14",
-        "espec": "Almacenamiento: 64Gb - RAM: 4Gb",
-        "categoria":{
-            "nombre": "Celulares",
-            "id": "cel"
-        },
-        "precio": 350000
+    "precio": 420000
+  },
+  {
+    "id": 19,
+    "marca": "Samsung",
+    "modelo": "A14",
+    "especificacion": "Almacenamiento: 64Gb - RAM: 4Gb",
+    "categoria": {
+      "nombre": "Celulares",
+      "id": "cel"
     },
-    {
-        "id":"20",
-        "marca": "Apple",
-        "modelo": "IPHONE 15",
-        "espec": "Almacenamiento: 256Gb - RAM: 8Gb",
-        "categoria":{
-            "nombre": "Celulares",
-            "id": "cel"
-        },
-        "precio": 1600000
+    "precio": 350000
+  },
+  {
+    "id": 20,
+    "marca": "Apple",
+    "modelo": "IPHONE 15",
+    "especificacion": "Almacenamiento: 256Gb - RAM: 8Gb",
+    "categoria": {
+      "nombre": "Celulares",
+      "id": "cel"
     },
-    {
-        "id":"21",
-        "marca": "Apple",
-        "modelo": "IPHONE 13",
-        "espec": "Almacenamiento: 128Gb - RAM: 4Gb",
-        "categoria":{
-            "nombre": "Celulares",
-            "id": "cel"
-        },
-        "precio": 1250000
+    "precio": 1600000
+  },
+  {
+    "id": 21,
+    "marca": "Apple",
+    "modelo": "IPHONE 13",
+    "especificacion": "Almacenamiento: 128Gb - RAM: 4Gb",
+    "categoria": {
+      "nombre": "Celulares",
+      "id": "cel"
     },
-    {
-        "id":"22",
-        "marca": "Apple",
-        "modelo": "IPHONE 11",
-        "espec": "Almacenamiento: 64Gb - RAM: 4Gb",
-        "categoria":{
-            "nombre": "Celulares",
-            "id": "cel"
-        },
-        "precio": 1250000
+    "precio": 1250000
+  },
+  {
+    "id": 22,
+    "marca": "Apple",
+    "modelo": "IPHONE 11",
+    "especificacion": "Almacenamiento: 64Gb - RAM: 4Gb",
+    "categoria": {
+      "nombre": "Celulares",
+      "id": "cel"
     },
-    {
-        "id":"23",
-        "marca": "Motorola",
-        "modelo": "Edge 30Neo",
-        "espec": "Almacenamiento: 128Gb - RAM: 8Gb",
-        "categoria":{
-            "nombre": "Celulares",
-            "id": "cel"
-        },
-        "precio": 550000
+    "precio": 1250000
+  },
+  {
+    "id": 23,
+    "marca": "Motorola",
+    "modelo": "Edge 30Neo",
+    "especificacion": "Almacenamiento: 128Gb - RAM: 8Gb",
+    "categoria": {
+      "nombre": "Celulares",
+      "id": "cel"
     },
-    {
-        "id":"24",
-        "marca": "Motorola",
-        "modelo": "G23",
-        "espec": "Almacenamiento: 128Gb - RAM: 4Gb",
-        "categoria":{
-            "nombre": "Celulares",
-            "id": "cel"
-        },
-        "precio": 305000
-    }
-
+    "precio": 550000
+  },
+  {
+    "id": 24,
+    "marca": "Motorola",
+    "modelo": "G23",
+    "especificacion": "Almacenamiento: 128Gb - RAM: 4Gb",
+    "categoria": {
+      "nombre": "Celulares",
+      "id": "cel"
+    },
+    "precio": 305000
+  }
 ]

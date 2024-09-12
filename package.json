@@ -9,5 +9,8 @@
   },
   "author": "Alejandro Martín",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
 }

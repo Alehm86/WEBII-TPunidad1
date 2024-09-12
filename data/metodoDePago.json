@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "metodo": "Efectivo"
+  },
+  {
+    "id": 2,
+    "metodo": "Tarjeta de crédito"
+  },
+  {
+    "id": 3,
+    "metodo": "Tarjeta de débito"
+  },
+  {
+    "id": 4,
+    "metodo": "Transferencia"
+  },
+  {
+    "id": 5,
+    "metodo": "Cheque"
+  }
+]

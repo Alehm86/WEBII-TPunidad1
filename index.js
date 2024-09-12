@@ -1,8 +1,19 @@
-import { readFile } from 'fs/promises'
-const items = await readFile('./data/productos.json', 'utf-8')
-const users = await readFile('./data/users.json', 'utf-8')
+import express from 'express'
 
-const productos = JSON.parse(items)
-const usuarios = JSON.parse(users)
+import userRouter from './router/user.routes.js'
+import prodRouter from './router/prod.routes.js'
+import ventRouter from './router/ventas.routes.js'
+import metPagoRouter from './router/metPago.routes.js'
 
-console.log(productos)
+const app = express()
+const port = 3001
+
+app.use(express.json());
+app.listen(port, ()=>{
+    console.log(`Servidor online en puerto ${port}.`)
+})
+
+app.use('/users', userRouter)
+app.use('/prod', prodRouter)
+app.use('/vent', ventRouter)
+app.use('/mpago',metPagoRouter)
